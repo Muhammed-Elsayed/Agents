@@ -1,0 +1,7 @@
+openai
+azure-identity
+python-dotenv
+langchain
+langchain-openai
+pydantic
+langchain[mcp]
